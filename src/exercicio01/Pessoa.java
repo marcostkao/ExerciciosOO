@@ -2,9 +2,9 @@ package exercicio01;
 
 public class Pessoa {
 
-    public String nome;
-    public String sobrenome;
-    public String cpf;
+    private String nome;
+    private String sobrenome;
+    private String cpf;
 
     public Pessoa(String nome, String sobrenome, String cpf) {
         this.nome = nome;

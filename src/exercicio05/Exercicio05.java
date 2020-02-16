@@ -1,7 +1,7 @@
 package exercicio05;
 
 public class Exercicio05 {
-    
+
     public static void main(String[] args) {
         Caneta caneta1 = new Caneta("Platico","Tinta");
         caneta1.escrever();

@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9320eb69-8d03-4a54-807c-20c889a44d78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exercicio05/Caneta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio05/Escreve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio05/Exercicio05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio05/Lapis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio05/PenaMosquito.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio05/Exercicio05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio05/Exercicio05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +38,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Exercicio05">
-    <configuration name="Exercicio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicio02.Exercicio02" />
+  <component name="RunManager" selected="Application.Exercicio01">
+    <configuration name="Exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio01.Exercicio01" />
       <module name="ExerciciosOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercicio02.*" />
+          <option name="PATTERN" value="exercicio01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +52,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicio03.Exercicio03" />
+    <configuration name="Exercicio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio02.Exercicio02" />
       <module name="ExerciciosOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercicio03.*" />
+          <option name="PATTERN" value="exercicio02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio01" />
         <item itemvalue="Application.Exercicio05" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Exercicio04" />
         <item itemvalue="Application.Exercicio02" />
-        <item itemvalue="Application.Exercicio03" />
       </list>
     </recent_temporary>
   </component>
@@ -147,29 +142,29 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="160" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1581856531183" />
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1581894562255">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1581895133122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1145" height="181" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581608804777" />
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834/329.-768.1360.738@0.0.1536.834" timestamp="1581894562255" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834/329.-768.1360.738@0.0.1536.834" timestamp="1581895133122" />
     <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581735883110" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1581894562254">
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1581895133122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1145" height="181" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581608804777" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834/329.-768.1360.738@0.0.1536.834" timestamp="1581894562254" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834/329.-768.1360.738@0.0.1536.834" timestamp="1581895133122" />
     <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1581735883110" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1581894562254">
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1581895133122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1145" height="181" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581608804777" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834/329.-768.1360.738@0.0.1536.834" timestamp="1581894562254" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834/329.-768.1360.738@0.0.1536.834" timestamp="1581895133122" />
     <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1581735883110" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1581894562254">
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1581895133122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1145" height="181" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581608804777" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834/329.-768.1360.738@0.0.1536.834" timestamp="1581894562254" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834/329.-768.1360.738@0.0.1536.834" timestamp="1581895133122" />
     <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1581735883110" />
     <state x="200" y="24" key="SettingsEditor" timestamp="1581469433369">
       <screen x="47" y="24" width="1319" height="744" />
