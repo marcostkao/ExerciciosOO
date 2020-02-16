@@ -1,6 +1,7 @@
 package exercicio04;
 
 public class Cliente extends  Pessoa {
+
     private String cpf;
 
     public Cliente(String nome, int idade, String cidadeNascimento, String cpf) {
