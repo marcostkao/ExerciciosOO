@@ -9,7 +9,7 @@ public class Exercicio01 {
         Pessoa p2 = new Pessoa("José", "Silva", "56432198752");
         p2.andar();
 
-        Pessoa p3 = new Pessoa("Maria", "Sousa", "69865223424");
+        Pessoa p3 = new Pessoa("Maria", "Souza", "69865223424");
         p3.andar();
 
     }
