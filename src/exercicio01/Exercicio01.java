@@ -2,14 +2,16 @@ package exercicio01;
 
 public class Exercicio01 {
     public static void main(String[] args) {
-      Pessoa pessoa1 = new Pessoa();
-      pessoa1.nome = "Marcos";
-      pessoa1.sobrenome = "Barbosa";
-      pessoa1.cpf = "2552626262";
 
+        Pessoa p1 = new Pessoa("Marcos", "Barbosa", "02345695422");
+        p1.comer();
 
-      pessoa1.comer();
-      pessoa1.andar();
+        Pessoa p2 = new Pessoa("José", "Silva", "56432198752");
+        p2.andar();
+
+        Pessoa p3 = new Pessoa("Maria", "Sousa", "69865223424");
+        p3.andar();
 
     }
+
 }
