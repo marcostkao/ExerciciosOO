@@ -15,19 +15,21 @@ public class Veiculo {
         this.consumoLitro = consumoLitro;
     }
 
+    //Método abastecer
     public void abastecer(double litros){
          if( litros > 0){
-             this.capacidadeTanque += litros;
+             this.capacidadeTanque = litros;
              System.out.println("Tanque abastecido com sucesso!");
          } else {
-             System.out.println("Quantidade de conbustivél invalida!");
+             System.out.println("Quantidade de conbustível inválida!");
          }
     }
-
+    //Método autonomia do veículo
     public void autonomiaDoVeiculo(){
         double distancia;
-        distancia = this.capacidadeTanque / consumoLitro;
-        System.out.println("A autonomia do veiculo é: " + distancia);
+        distancia = capacidadeTanque * consumoLitro;
+        System.out.println("A autonomia do veiculo " + nome + " é " + distancia + " quilômetros");
+        System.out.println("-----------------------------");
     }
 
     public String getNome() {
