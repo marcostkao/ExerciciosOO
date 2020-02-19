@@ -7,6 +7,7 @@ public class Veiculo {
     private double capacidadeTanque;
     private double consumoLitro;
 
+
     public Veiculo(String nome, int numeroRodas, double capacidadeTanque, double consumoLitro) {
         this.nome = nome;
         this.numeroRodas = numeroRodas;
@@ -14,10 +15,19 @@ public class Veiculo {
         this.consumoLitro = consumoLitro;
     }
 
-    
-    public double autonomiaDoVeiculo(){
+    public void abastecer(double litros){
+         if( litros > 0){
+             this.capacidadeTanque += litros;
+             System.out.println("Tanque abastecido com sucesso!");
+         } else {
+             System.out.println("Quantidade de conbustivél invalida!");
+         }
+    }
 
-        System.out.println();
+    public void autonomiaDoVeiculo(){
+        double distancia;
+        distancia = this.capacidadeTanque / consumoLitro;
+        System.out.println("A autonomia do veiculo é: " + distancia);
     }
 
     public String getNome() {
