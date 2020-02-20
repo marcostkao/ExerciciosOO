@@ -21,14 +21,14 @@ public class Veiculo {
              this.capacidadeTanque = litros;
              System.out.println("Tanque abastecido com sucesso!");
          } else {
-             System.out.println("Quantidade de conbustível inválida!");
+             System.out.println("Quantidade de combustível inválida!");
          }
     }
     //Método autonomia do veículo
     public void autonomiaDoVeiculo(){
         double distancia;
         distancia = capacidadeTanque * consumoLitro;
-        System.out.println("A autonomia do veiculo " + nome + " é " + distancia + " quilômetros");
+        System.out.println("A autonomia do veículo " + nome + " é " + distancia + " quilômetros");
         System.out.println("-----------------------------");
     }
 
